@@ -61,6 +61,11 @@
         .m-b-md {
             margin-bottom: 30px;
         }
+
+        .container {
+            margin-top: 50px;
+            max-width: 800px;
+        }
     </style>
 </head>
 <body>
