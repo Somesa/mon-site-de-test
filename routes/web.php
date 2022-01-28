@@ -15,4 +15,7 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
     return view('welcome');
-});
+})->name('accueil');
+
+Route::view('/a-propos', 'a-propos')->name('a-propos');
+Route::view('/contact', 'contact')->name('contact');

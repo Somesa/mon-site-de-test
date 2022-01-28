@@ -2,7 +2,7 @@
 
 @section('content')
     <div class="title m-b-md">
-        Welcome
+        Contact
     </div>
 
     <div class="links">
